@@ -13,7 +13,7 @@ $ sudo apt install qt5ct
 Log out and log back in
 
 ```
-$ git clone https://gitlab.com/t0pu/qt-arc-theme-colorscheme
+$ git clone https://github.com/t0pu/qt-arc-theme-colorscheme.git
 $ cp qt-arc-theme-colorscheme/*.conf ~/.config/qt5ct/colors/
 $ rm -rf qt-arc-theme-colorscheme
 ```
